@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NeedlemanWunschAlgorithm
+comment1.params=Args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=seq1\ seq2
+comment2.target=void\ NeedlemanWunschAlgorithm(java.lang.String,\ java.lang.String)
+numComments=3
